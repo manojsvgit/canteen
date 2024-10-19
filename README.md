@@ -2,6 +2,10 @@
 
 A dynamic, mobile-responsive website for CMRIT Canteen that allows users to explore the menu, contact the canteen, and learn more about the story behind the food. The website includes sections for food, drinks, and desserts with detailed descriptions, prices, and images of the dishes.
 
+## Live Demo
+
+You can view the live demo of the website here: [Canteen Website](https://manojsvgit.github.io/canteen/)
+
 ## Features
 
 - **Responsive Design**: The website adapts to different screen sizes, providing an optimal experience on mobile, tablet, and desktop devices.
